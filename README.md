@@ -2,5 +2,3 @@ Hello! Here you can find everything that i've made and you might even find some 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshar727&theme=tokyonight&layout=compact&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![akshar727's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshar727&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
